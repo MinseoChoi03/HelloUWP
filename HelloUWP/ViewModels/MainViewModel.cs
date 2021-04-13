@@ -1,5 +1,4 @@
-﻿using System;
-
+﻿
 using Prism.Windows.Mvvm;
 
 namespace HelloUWP.ViewModels
@@ -8,6 +7,7 @@ namespace HelloUWP.ViewModels
     {
         public MainViewModel()
         {
+           
         }
     }
 }
